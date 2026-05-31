@@ -1,119 +1,115 @@
-# Hi 👋, I'm Hajee Syed Aboothahir
+# 👋 Hi, I'm Hajee Syed Aboothahir
 
 ### ☁️ DevOps Engineer | Cloud Engineer | Kubernetes Enthusiast
-
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 ---
 
 ## 🚀 About Me
 
-DevOps and Cloud Engineer with hands-on experience building production-style cloud infrastructure, Kubernetes platforms, CI/CD pipelines, and monitoring solutions.
+I am a DevOps and Cloud Engineer passionate about designing scalable cloud infrastructure, automating deployments, and building reliable cloud-native systems.
 
-🌍 International exposure across India, Poland, Germany, and the Netherlands.
+My journey spans across India, Poland, Germany, and the Netherlands, combining engineering education, business experience, and modern software infrastructure practices.
 
-🎓 MSc Mechanical Engineering - Gdansk University of Technology, Poland
+Currently focused on:
 
-💻 Software Engineering Training - 42 Heilbronn, Germany
-
-☁️ Passionate about Cloud Computing, DevOps, Kubernetes, Automation, and AI
-
-📚 Currently Learning:
-
-* Advanced Kubernetes
-* Terraform
-* AWS Cloud Architecture
-* Full Stack Development
-* AI Agents & Automation
+* ☁️ AWS Cloud Architecture
+* ☸️ Kubernetes & Container Orchestration
+* 🐳 Docker & CI/CD Automation
+* ⚙️ Terraform & Infrastructure as Code
+* 📊 Monitoring & Observability
+* 🤖 AI & Automation Systems
 
 ---
 
-# 🌐 Connect With Me
+## 🌍 International Background
+
+🎓 **M.Sc. Mechanical Engineering (International Design Engineering)**
+Gdansk University of Technology, Poland
+
+🎓 **B.Tech Mechanical Engineering**
+Dr. M.G.R. Educational and Research Institute, India
+
+💻 **Software Engineering Program**
+42 Heilbronn, Germany
+
+💼 Professional experience across:
+
+* India
+* Poland
+* Netherlands
+* Germany
+
+---
+
+# ⚡ Tech Stack
+
+## ☁️ Cloud Platforms
 
 <p align="left">
-<a href="https://www.linkedin.com/in/hajee-syed-aboothahir">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:hajeeaboothahir@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/HajeeAboothahir">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
-# 💻 DevOps & Cloud Stack
-
-### ☁️ Cloud
-
-<p>
 <img src="https://skillicons.dev/icons?i=aws" />
 </p>
 
-### 🐳 Containers & Kubernetes
+## ☸️ Containers & Orchestration
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 </p>
 
-### ⚙️ DevOps Tools
+## ⚙️ DevOps & Automation
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=jenkins,terraform,ansible,git,github" />
 </p>
 
-### 🖥️ Operating Systems
+## 💻 Programming & Scripting
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,c,bash" />
 </p>
 
-### 💻 Programming
+## 🌐 Full Stack Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c" />
-</p>
-
-### 🌐 Full Stack
-
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,spring,mysql" />
 </p>
 
-### 📊 Monitoring & Observability
+## 🖥️ Operating Systems
 
-<p>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,ubuntu" />
+</p>
+
+## 📊 Monitoring & Observability
+
+<p align="left">
+
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured DevOps Projects
 
 ## ☁️ Enterprise AWS 3-Tier Architecture
 
-✔ AWS EC2
+Production-grade AWS deployment featuring:
 
-✔ VPC
+✔ VPC Design
 
 ✔ Public & Private Subnets
 
-✔ Route Tables
-
-✔ Security Groups
-
 ✔ NAT Gateway
+
+✔ EC2 Instances
 
 ✔ RDS MySQL
 
 ✔ Route53
 
-✔ ACM SSL
+✔ ACM SSL Certificates
 
 ✔ Application Load Balancer
 
@@ -123,13 +119,15 @@ DevOps and Cloud Engineer with hands-on experience building production-style clo
 
 ## ☸️ End-to-End CI/CD Platform on AWS EKS
 
+Enterprise DevOps platform built with:
+
 ✔ AWS EKS
 
-✔ Jenkins
+✔ Kubernetes
 
 ✔ Docker
 
-✔ Kubernetes
+✔ Jenkins
 
 ✔ Helm
 
@@ -139,13 +137,15 @@ DevOps and Cloud Engineer with hands-on experience building production-style clo
 
 ✔ Grafana
 
-✔ CI/CD Automation
+✔ Automated Deployment Pipelines
 
 ---
 
 ## 🍔 Kubernetes Food Delivery Platform
 
-✔ Multi-Node Kubernetes Cluster
+Production-style Kubernetes deployment:
+
+✔ Multi-node Cluster
 
 ✔ kubeadm
 
@@ -153,13 +153,13 @@ DevOps and Cloud Engineer with hands-on experience building production-style clo
 
 ✔ Jenkins Pipelines
 
-✔ Docker
-
 ✔ GitHub Webhooks
 
-✔ Prometheus Monitoring
+✔ Docker
 
-✔ Grafana Dashboards
+✔ Monitoring Stack
+
+✔ Troubleshooting & Production Operations
 
 ---
 
@@ -175,7 +175,7 @@ DevOps and Cloud Engineer with hands-on experience building production-style clo
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 
@@ -185,7 +185,7 @@ DevOps and Cloud Engineer with hands-on experience building production-style clo
 
 ---
 
-# 📊 Contribution Graph
+# 📊 Activity Graph
 
 <p align="center">
 
@@ -195,38 +195,59 @@ DevOps and Cloud Engineer with hands-on experience building production-style clo
 
 ---
 
-# 🏆 Certifications & Learning
+# 🏆 Certifications & Training
 
-🎯 DevOps Engineering Training
-
-🎯 AWS Cloud Projects
-
-🎯 Kubernetes Administration
-
-🎯 Jenkins CI/CD Automation
-
-🎯 Selenium Automation Testing
-
-🎯 Full Stack Development
-
-🎯 42 Heilbronn Software Engineering Program
+* DevOps Engineering
+* AWS Cloud Projects
+* Kubernetes Administration
+* Jenkins CI/CD
+* Selenium Automation Testing
+* Full Stack Development
+* 42 Heilbronn Software Engineering Program
 
 ---
 
 # 🎯 2026 Goals
 
-✅ Become a Professional DevOps Engineer
+✅ Secure a DevOps / Cloud Engineering role
 
-✅ Master Kubernetes & Cloud Native Technologies
+✅ Master Kubernetes Production Operations
 
-✅ Build Enterprise-Level Infrastructure Projects
+✅ Become Terraform Associate Certified
 
-✅ Contribute to Open Source
+✅ Contribute to Open Source Projects
 
-✅ Secure a Cloud / DevOps Engineering Role
+✅ Build Advanced AI + DevOps Automation Solutions
 
 ---
 
-### ⚡ Favorite Quote
+# 🌐 Connect With Me
 
-> "First automate it. Then scale it."
+<p align="left">
+
+<a href="https://www.linkedin.com/in/hajee-syed-aboothahir">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hajeeaboothahir@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/HajeeAboothahir">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Philosophy
+
+> Automate repetitive work.
+> Build reliable systems.
+> Learn continuously.
+> Scale without limits.
+
+---
+
+⭐ If you like my projects, feel free to explore my repositories and connect with me.
