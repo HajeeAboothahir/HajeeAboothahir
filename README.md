@@ -1,34 +1,232 @@
-## Hi there 👋
-# 💫 About Me:
-🚀 About Me<br>I am a passionate and driven Software Tester & Automation Enthusiast with experience in Selenium WebDriver, Java, and software quality assurance. My goal is to enhance software reliability by implementing robust testing strategies and automation solutions.
+# Hi 👋, I'm Hajee Syed Aboothahir
 
+### ☁️ DevOps Engineer | Cloud Engineer | Kubernetes Enthusiast
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hajee-syed-aboothahir-437818145/) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HajeeAboothahir&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HajeeAboothahir&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HajeeAboothahir&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HajeeAboothahir&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
 
-<!--
-**HajeeAboothahir/HajeeAboothahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps and Cloud Engineer with hands-on experience building production-style cloud infrastructure, Kubernetes platforms, CI/CD pipelines, and monitoring solutions.
 
-Here are some ideas to get you started:
+🌍 International exposure across India, Poland, Germany, and the Netherlands.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 MSc Mechanical Engineering - Gdansk University of Technology, Poland
+
+💻 Software Engineering Training - 42 Heilbronn, Germany
+
+☁️ Passionate about Cloud Computing, DevOps, Kubernetes, Automation, and AI
+
+📚 Currently Learning:
+
+* Advanced Kubernetes
+* Terraform
+* AWS Cloud Architecture
+* Full Stack Development
+* AI Agents & Automation
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/hajee-syed-aboothahir">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hajeeaboothahir@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/HajeeAboothahir">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 💻 DevOps & Cloud Stack
+
+### ☁️ Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+### 🐳 Containers & Kubernetes
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+</p>
+
+### ⚙️ DevOps Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=jenkins,terraform,ansible,git,github" />
+</p>
+
+### 🖥️ Operating Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash" />
+</p>
+
+### 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c" />
+</p>
+
+### 🌐 Full Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,spring,mysql" />
+</p>
+
+### 📊 Monitoring & Observability
+
+<p>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## ☁️ Enterprise AWS 3-Tier Architecture
+
+✔ AWS EC2
+
+✔ VPC
+
+✔ Public & Private Subnets
+
+✔ Route Tables
+
+✔ Security Groups
+
+✔ NAT Gateway
+
+✔ RDS MySQL
+
+✔ Route53
+
+✔ ACM SSL
+
+✔ Application Load Balancer
+
+✔ Nginx Reverse Proxy
+
+---
+
+## ☸️ End-to-End CI/CD Platform on AWS EKS
+
+✔ AWS EKS
+
+✔ Jenkins
+
+✔ Docker
+
+✔ Kubernetes
+
+✔ Helm
+
+✔ Ansible
+
+✔ Prometheus
+
+✔ Grafana
+
+✔ CI/CD Automation
+
+---
+
+## 🍔 Kubernetes Food Delivery Platform
+
+✔ Multi-Node Kubernetes Cluster
+
+✔ kubeadm
+
+✔ containerd
+
+✔ Jenkins Pipelines
+
+✔ Docker
+
+✔ GitHub Webhooks
+
+✔ Prometheus Monitoring
+
+✔ Grafana Dashboards
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HajeeAboothahir&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HajeeAboothahir&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HajeeAboothahir&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HajeeAboothahir&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 Certifications & Learning
+
+🎯 DevOps Engineering Training
+
+🎯 AWS Cloud Projects
+
+🎯 Kubernetes Administration
+
+🎯 Jenkins CI/CD Automation
+
+🎯 Selenium Automation Testing
+
+🎯 Full Stack Development
+
+🎯 42 Heilbronn Software Engineering Program
+
+---
+
+# 🎯 2026 Goals
+
+✅ Become a Professional DevOps Engineer
+
+✅ Master Kubernetes & Cloud Native Technologies
+
+✅ Build Enterprise-Level Infrastructure Projects
+
+✅ Contribute to Open Source
+
+✅ Secure a Cloud / DevOps Engineering Role
+
+---
+
+### ⚡ Favorite Quote
+
+> "First automate it. Then scale it."
